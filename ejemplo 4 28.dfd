@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+5
+v1,v2
+6
+3
+6
+compra
+5
+v1+v2
+3
+des
+14
+(compra*5)/100
+5
+total
+10
+compra-des
+4
+1
+61
+' Hola señor@ usuario usted debe pagar: ' , total , ' pesos '
+1

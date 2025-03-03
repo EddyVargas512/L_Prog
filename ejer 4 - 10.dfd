@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+' Ingrese la cantidad de hamburguesas que desea '
+5
+1
+1
+h
+6
+1
+5
+costo
+1
+h
+7
+0
+1
+7
+costo>5
+4
+1
+45
+' Reprobaste, tu promedio fue de: ', promedio
+13
+4
+1
+44
+' Aprobaste, tu promedio fue de: ', promedio
+13
+1
